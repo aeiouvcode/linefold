@@ -36,6 +36,9 @@
 - [x] Match train travel coordinates to rendered track.
 - [x] Render station glyphs over trains and prevent starting carriages covering stations.
 - [x] Local syntax, gameplay smoke and 390px iframe visual checks.
-- [ ] Commit to GitHub and verify deployed Pages bytes and browser interaction after local midnight.
+- [x] Commit first code pass to GitHub and verify served Pages bytes.
+- [x] Publish phone-resize fix, run live 390px drag/pause/resume and verify final served bytes.
+- [x] Live ferry and seeded shared-corridor visual checks.
+- [ ] Weekly-upgrade live UI remains unverified in this pass; local simulation smoke passed growth only.
 
 **Non-goals:** New city geography and level design.
