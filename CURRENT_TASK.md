@@ -27,3 +27,15 @@
 ## Non-goals
 
 - Real city geography, parallel-offset shared corridors, landscape layout, new upgrade types
+
+## 2026-09-25 continuation
+
+**Task:** Improve shared-corridor track legibility and train/station visibility without losing existing gameplay.
+
+- [x] Offset shared line segments consistently in either travel direction.
+- [x] Match train travel coordinates to rendered track.
+- [x] Render station glyphs over trains and prevent starting carriages covering stations.
+- [x] Local syntax, gameplay smoke and 390px iframe visual checks.
+- [ ] Commit to GitHub and verify deployed Pages bytes and browser interaction after local midnight.
+
+**Non-goals:** New city geography and level design.
